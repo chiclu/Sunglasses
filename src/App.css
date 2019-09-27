@@ -1,1 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #2C2D3C;
+    font-family: 'Roboto', sans-serif;
+}
 
+img {
+	max-width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	    font-family: 'Playfair Display', serif;
+	    font-weight: 700;
+}
+
+p{
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.background1 {
+	background-color: #EBB970;
+}
+
+/*RESPONSIVE*/
+
+@media( min-width: 576px) {
+
+}
+
+
+@media( min-width: 768px) {
+	
+}
+
+
+@media( min-width: 992px) {
+	
+}
+
+
+@media( min-width: 1200px) {
+
+	.container{
+		max-width: 1170px;
+	}
+}
