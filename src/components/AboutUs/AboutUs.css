@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500);
+
+
+.imgAbout{
+	margin-top: 86px;
+}
+
+.aboutTextArea{
+	margin-top: 148px;
+}
+
+.aboutTextArea span{
+	font-size: 18px;
+	line-height: 26px;
+	letter-spacing: 0.7px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.labelAbout{
+	font-size: 32px;
+	line-height: 43px;
+	letter-spacing: 1.06px;
+	margin-bottom: 22px;
+}
+
+.lineAbout{
+	height: 2px;
+	width: 90px;
+	background-color: #EBB970;
+	margin-bottom: 20px;
+}
+
+.container{
+		max-width: 1170px;
+	}

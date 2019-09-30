@@ -11,7 +11,7 @@ class Home extends Component {
 					<div className="carousel slide" id="lead-slider">
 						<div className="carousel-inner">
 
-							<div className="carousel-item active">
+							<div className="carousel-item active" style={{backgroundImage: 'url(./img/slider-img.png)'}}>
 								<div className="container">
 									<div className="caption p-4 bg-dark text-white">
 									<h2>Choose your sunglasses</h2>
