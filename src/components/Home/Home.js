@@ -7,7 +7,7 @@ class Home extends Component {
 		return(
 
 			<div>
-				<section id="home-section" className="lead-section">
+				<section id="home" className="lead-section">
 					<div className="carousel slide" id="lead-slider">
 						<div className="carousel-inner">
 

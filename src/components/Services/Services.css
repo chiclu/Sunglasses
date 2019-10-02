@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:Bold);
+
+.labelServices{
+   font-size: 32px;
+   line-height: 43px;
+   inline-size: 1.06px;
+}
+
+.serviceLine{
+   width: 90px;
+   height: 2px;
+   background-color:#EBB970;
+   margin: auto;
+}
+
+.serviceItem{
+   background-color: #2C2D3C;
+   max-width: 361px;
+   margin: auto;
+   transition: 1s all cubic-bezier(0.42, 1.31, 1, 1) ;
+   position: relative;
+   bottom: 0;
+}
+
+
+.serviceItem:hover{
+   box-shadow: 0 12px 13px 0 rgba(145,145,145,0.5);
+   bottom: 20px;
+}
+
+.dollar{
+   font-size: 42px;
+}
+
+.truck{
+   font-size: 38px;
+}
+
+.glasses{
+   font-size: 44px;
+}
+
+.rounded-circle{
+   background-color: #EBB970;
+   height: 88px;
+   width: 88px;
+   line-height: 88px;
+}
+
+.labels{
+   font-size: 24px;
+   line-height: 30px;
+}
+
+.serviceText{
+   font-size: 18px;
+   line-height: 26px;
+   padding: 0 30px;
+}
+
+
+ /* @media( min-width: 1200px) {
+   .servicesArea{
+      margin-top: 74px;
+   }
+}  */

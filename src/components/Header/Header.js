@@ -18,18 +18,18 @@ class Header extends Component {
                         <div className="collapse navbar-collapse" id="menu-button">
                             <ul className="navbar-nav ml-auto">
                                 <li className="nav-item">
-                                    <a className="nav-link  active" href="Home">HOME
+                                    <a className="nav-link  active" href="#home">HOME
                                         <span className="sr-only">(current)</span>
                                     </a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#AboutUs">ABOUT US</a>
+                                    <a className="nav-link" href="#about">ABOUT US</a>
                                 </li>
                                 <li className="nav-item">
                                     <a className="nav-link" href="#services">SERVICES</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#achievement">ACHIEVEMENT</a>
+                                    <a className="nav-link" href="#achievements">ACHIEVEMENT</a>
                                 </li>
                                 <li className="nav-item">
                                     <a className="nav-link" href="#products">PRODUCTS</a>

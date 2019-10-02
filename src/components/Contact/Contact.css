@@ -1,0 +1,73 @@
+
+.form-group{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 554px;
+    margin: auto;
+}
+
+.name, .email{
+    height: 45px;	
+    width: 262px;	
+    border: 1px solid #2C2D3C;	
+    opacity: 0.36;
+    color: #2C2D3C;	
+    font-family: Roboto;	
+    font-size: 14px;	
+    letter-spacing: 0.72px;	
+    line-height: 26px;
+    margin: auto;
+}
+
+.textArea{
+    height: 192px;	
+    width: 554px;	
+    border: 1px solid #2C2D3C;	
+    opacity: 0.36;
+    color: #2C2D3C;	
+    font-family: Roboto;	
+    font-size: 14px;	
+    letter-spacing: 0.72px;	
+    line-height: 26px;
+    margin: auto;
+    padding: 0.375rem 0.75rem;
+}
+
+.submitBTN{
+    height: 45px;	
+    width: 166px;	
+    background-color: #EBB970;
+    border: none;
+    color: #FFFFFF;	
+    font-family: Roboto;	
+    font-size: 16px;	
+    font-weight: 500;	
+    letter-spacing: 0.82px;	
+    line-height: 26px;	
+    text-align: center;
+}
+
+.contact-icons{
+    max-width: 554px;
+    color: #2C2D3C;	
+    font-family: Roboto;	
+    font-size: 16px;	
+    letter-spacing: 0.82px;	
+    line-height: 26px;
+}
+
+.firstText{
+    margin-left: 3px;
+}
+
+.iconsContainer{
+    padding-left: 12px;
+}
+
+.footer{
+    background-color: #EBB970;
+}
+
+.social-icons a{
+    margin: 0 5px;
+}
